@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Page1 on My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://hidehito-f-personal.github.io/hugo-deploy/</link>
     <description>Recent content in Page1 on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://hidehito-f-personal.github.io/hugo-deploy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1.1 Origin</title>
-      <link>http://example.org/devops/origin/</link>
+      <link>https://hidehito-f-personal.github.io/hugo-deploy/devops/origin/</link>
       <pubDate>Sat, 19 Feb 2022 18:40:39 +0900</pubDate>
       
-      <guid>http://example.org/devops/origin/</guid>
+      <guid>https://hidehito-f-personal.github.io/hugo-deploy/devops/origin/</guid>
       <description>そもそも問題だったのは？  企業におけるIT部門の開発と運用の間に溝が生じていた  開発はビジネスのためにサービスに変化を加える 運用は喧嘩を嫌い、安定稼働を望む 上記の溝が従来の運用方法の問題   アジャイル開発が確立してきて、継続的な開発を行う上で浮き彫りになった問題を解決するためにDevOpsが生まれた（らしい）  解決策は？   1の問題点に対して
  開発と運用が密に連携することが必要 様々な手法と文化を取り入れて商品やサービスへの改善にかかる時間を短縮する（迅速にビジネスニーズに応えられるようにする）ことが必要 情報や技術の複雑性、専門性を削減する    2の問題点に関して
  IaCとしてインフラをソフトウェアの知見で制御するようになった（DevOps） 迅速にビジネスニーズにこたえることを追い求めた結果、DevOpsが産まれた    結論   専門性と複雑性の排除、情報の見える化
@@ -22,10 +22,10 @@
     
     <item>
       <title>1.2 Whats_DevOps</title>
-      <link>http://example.org/devops/whats_devops/</link>
+      <link>https://hidehito-f-personal.github.io/hugo-deploy/devops/whats_devops/</link>
       <pubDate>Sat, 19 Feb 2022 18:50:38 +0900</pubDate>
       
-      <guid>http://example.org/devops/whats_devops/</guid>
+      <guid>https://hidehito-f-personal.github.io/hugo-deploy/devops/whats_devops/</guid>
       <description>概説 一言でいうと：開発部門と運用部門が密に連携し、様々な手法と文化を取り入れて商品やサービスへの改善にかかる時間を短縮し、迅速にビジネスニーズに答えること→ツールと文化の２つの側面がある（以下に説明あり）  （一つ目は歴史的な観点も加えつつ）
   DevOpsとは 「開発チーム（Development）と運用チーム（Operations）がお互いに協調し合うことで開発・運用するソフトウェア／システムによってビジネスの価値をより高めるだけでなく、そのビジネスの価値をより確実かつ迅速にエンドユーザーに届け続ける」 という概念
   「DevOps」という言葉は2009年に行われたFlickrのエンジニアによるセッション、「10+ Deploys Per Day: Dev and Ops Cooperation at Flickr」（オライリー主催「Velocity 2009」）の中で初めて登場し、注目されるようになりました。
@@ -39,10 +39,10 @@
     
     <item>
       <title>1.3.2 Tools</title>
-      <link>http://example.org/devops/realize/tools/</link>
+      <link>https://hidehito-f-personal.github.io/hugo-deploy/devops/realize/tools/</link>
       <pubDate>Sat, 19 Feb 2022 19:09:46 +0900</pubDate>
       
-      <guid>http://example.org/devops/realize/tools/</guid>
+      <guid>https://hidehito-f-personal.github.io/hugo-deploy/devops/realize/tools/</guid>
       <description>DevOpsを実現するツールについて  DevOpsを実現するために様々なツールが使われている（DevOps導入指南より）  バックログ管理：redmine, JIRA メトリクス収集：zabbix chat（アジャイル開発などで重要）: slack CI/CD: circleCI, jenkins コード管理：GitLab, GitHub    他ページへのリンク DevOpsの起源についてはこちら からアクセスしてください</description>
     </item>
     
