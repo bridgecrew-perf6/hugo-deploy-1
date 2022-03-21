@@ -2,5 +2,5 @@ baseURL = "https://hidehito-f-personal.github.io/hugo-deploy/"
 languageCode = 'ja-jp'
 title = 'My New Hugo Site'
 theme = "docdock"
-canonifyurls = true
+canonifyurls = false
 publishDir = "docs"
