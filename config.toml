@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'ja-jp'
+title = 'My New Hugo Site'
+theme = "docdock"
+canonifyurls = true
+publishDir = "docs"
