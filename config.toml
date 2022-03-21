@@ -1,4 +1,4 @@
-baseURL = '"https://hidehito-f-personal.github.io/"'
+baseURL = "https://hidehito-f-personal.github.io/"
 languageCode = 'ja-jp'
 title = 'My New Hugo Site'
 theme = "docdock"
